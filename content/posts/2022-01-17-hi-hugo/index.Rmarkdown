@@ -1,0 +1,39 @@
+---
+title: Hi Hugo
+author: Pablo Iáñez Picazo
+date: '2022-01-17'
+slug: []
+categories: []
+tags:
+  - ''
+  - ''
+authorTwitter: ''
+cover: ''
+description: ''
+keywords:
+  - ''
+  - ''
+readingTime: yes
+showFullContent: no
+---
+
+This is my first blog. woohoo!
+
+Here you have some piece of code :D
+
+```{r}
+summary(Orange)
+```
+
+
+```{r echo=FALSE}
+library(ggplot2)
+oplot <- ggplot(Orange, aes(x = age, 
+                   y = circumference, 
+                   colour = Tree)) +
+  geom_point() +
+  geom_line() +
+  guides(colour = FALSE) +
+  theme_bw()
+oplot
+```
