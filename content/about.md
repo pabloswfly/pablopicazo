@@ -1,22 +1,23 @@
 ---
-author: Radek
-date: "2019-01-25"
-title: About
+title: "About me"
+author: "Pablo Iáñez Picazo"
+date: "2/2/2022"
+output: html_document
 ---
 
-# Hi there
+> print('Hi there!')
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
+I am Pablo Iáñez Picazo, a bioinformatician and data scientist from Granada, Spain. I hold a BSc in Biochemistry from Universidad de Granada and a MSc in Bioinformatics from University of Copenhagen. I am curious about the potential applications of machine learning and deep learning models in big biological data, which will pave the way towards precision medicine.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+I am currently a research assistant at Elisabetta Mereu's lab [**Cellular Systems Genomics**](https://www.carrerasresearch.org/en/cellular-systems-genomics_169432) at Josep Carreras Institute in Barcelona, Spain. Here, I am studying single-cell multi-omics data 
+analysis and integration. 
 
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
+Before this, I have been trained in [**Fernando Racimo's lab**](https://sites.google.com/site/fernandoracimo/) and in [**Thomas Hamelryck's lab**](https://dsin.ku.dk/key_researchers/thomas_hamelryck/), mainly developing deep learning and bayesian methods in the field of protein structure and population genetics.
 
-The theme includes:
+You can find a detailed version of my CV [**here**](/cv).
 
-- **5 duotone themes**, depending on your preferences (orange, red, blue, green, pink)
-- [**Fira Code**](https://github.com/tonsky/FiraCode) as default monospaced font. It's gorgeous!
-- **really nice, custom duotone** syntax highlighting based on [**PrismJS**](https://prismjs.com)
-- mobile friendly layout
-
-So, there you have it... enjoy!
+My identity on other accounts through the net:
+- Twitter ~ [**pabloswfly**](https://twitter.com/pabloswfly)
+- Github ~ [**pabloswfly**](https://github.com/pabloswfly)
+- LinkedIn ~ [**Pablo Iáñez Picazo**](https://www.linkedin.com/in/pabswfly/)
+- ORCiD ~ [**Pablo Iáñez Picazo**](https://orcid.org/my-orcid?orcid=0000-0001-7174-3264)

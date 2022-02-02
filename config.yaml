@@ -1,12 +1,12 @@
-baseurl: https://example.com/
+baseurl: '/'
 languageCode: en-us
 theme: hugo-theme-terminal
 paginate: 5
 params:
-  centerTheme: no
+  centerTheme: yes
   contentTypeName: posts
   fullWidthTheme: no
-  showMenuItems: 2
+  showMenuItems: 5
   themeColor: orange
 languages:
   en:
@@ -15,17 +15,23 @@ languages:
     menu:
       main:
         - identifier: about
-          name: About
+          name: /about
           url: /about
-        - identifier: showcase
-          name: Showcase
-          url: /showcase
+        - identifier: cv
+          name: /cv
+          url: /cv
+        - identifier: posts
+          name: /posts
+          url: /posts
+        - identifier: music
+          name: /music
+          url: /music
     menuMore: Show more
     params:
       logo:
         logoHomeLink: /
-        logoText: Terminal
+        logoText: Pablo I. Picazo
     readMore: Read more
     readOtherPosts: Read other posts
-    subtitle: A simple, retro theme for Hugo
+    subtitle: Personal website
     title: Terminal

@@ -5,19 +5,19 @@ date: '2022-01-17'
 slug: []
 categories: []
 tags:
-  - ''
-  - ''
+  - 'first'
+  - 'code'
 authorTwitter: ''
 cover: ''
 description: ''
 keywords:
-  - ''
-  - ''
+  - 'code'
+  - 'first'
 readingTime: yes
-showFullContent: no
+showFullContent: yes
 ---
 
-This is my first blog. woohoo!
+This is my first blog post. Woohoo!
 
 Here you have some piece of code :D
 
@@ -38,9 +38,16 @@ summary(Orange)
 
 
 
-```
-## Warning: `guides(<scale> = FALSE)` is deprecated. Please use `guides(<scale> =
-## "none")` instead.
+```r
+library(ggplot2)
+oplot <- ggplot(Orange, aes(x = age, 
+                   y = circumference, 
+                   colour = Tree)) +
+  geom_point() +
+  geom_line() +
+  guides(colour = FALSE) +
+  theme_bw()
+oplot
 ```
 
 <img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" />
