@@ -1,13 +1,15 @@
-baseurl: '/'
+baseurl: 'https://pablopicazo.netlify.app/'
 languageCode: en-us
 theme: hugo-theme-terminal
 paginate: 5
+
 params:
   centerTheme: yes
   contentTypeName: posts
   fullWidthTheme: no
   showMenuItems: 5
   themeColor: orange
+  
 languages:
   en:
     copyright: ''
@@ -29,9 +31,16 @@ languages:
     menuMore: Show more
     params:
       logo:
-        logoHomeLink: /
-        logoText: Pablo I. Picazo
+        logoHomeLink: /about
+        logoText: Pablo Iañez Picazo
     readMore: Read more
     readOtherPosts: Read other posts
     subtitle: Personal website
-    title: Terminal
+    title: Pablo Iañez Picazo
+    
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+      
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
