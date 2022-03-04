@@ -12,7 +12,7 @@ Research Assistant {
   at: Josep Carreras Leukaemia Research Institute;
   where: Barcelona, Spain;
   when: 15 Feb 2021 - now;
-  activities: single-cell, multi-omics, scRNAseq, scATACseq, data integration, machine-learning, deep-learning;
+  activities: single-cell, multi-omics, scRNAseq, scATACseq, data-integration, machine-learning, deep-learning;
 }
 
 Research Assistant {
@@ -72,6 +72,41 @@ BSc in Biochemistry {
  `BIOINFORMATICS PROJECTS`
 
 ```css
+Research project {
+  at: Cellular Systems Genomics lab, Josep Carreras Institute;
+  where: Barcelona, Spain;
+  when: Ongoing;
+  title: ’DeepScore, a multi-platform and multi-omics deep learning model for user-friendly single-cell annotation and label transfer’;
+}
+
+Research project {
+  at: Cellular Systems Genomics lab, Josep Carreras Institute;
+  where: Barcelona, Spain;
+  when: Ongoing;
+  title: ’Generation of a single-cell ATAC-seq atlas of chromatin accessibility of human pancreas, part of Human Cell Atlas, ESPACE consortium’;
+}
+
+Research project {
+  at: Cellular Systems Genomics lab, Josep Carreras Institute;
+  where: Barcelona, Spain;
+  when: Ongoing;
+  title: ’Single-cell multi-omics data integration and characterization in the human kidney, part of Human Cell Atlas project’;
+}
+
+Research project {
+  at: Cellular Systems Genomics lab, Josep Carreras Institute;
+  where: Barcelona, Spain;
+  when: Ongoing;
+  title: ’Single-cell RNA-seq analyses of human mesenchymal cell in Acute Lymphocytic and Myeloid Leukemia in adults and infants’;
+}
+
+Research project {
+  at: Cellular Systems Genomics lab, Josep Carreras Institute;
+  where: Barcelona, Spain;
+  when: Ongoing;
+  title: ’Single-cell RNA-seq analyses of cell induced senescence in the mammary gland of mice’;
+}
+
 Master thesis {
   at: Racimo lab, University of Copenhagen;
   where: Copenahgen, Denmark;

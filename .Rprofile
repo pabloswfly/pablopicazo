@@ -22,5 +22,5 @@ options(
   # Personalized parameters
   blogdown.author = "Pablo Iáñez Picazo",
   blogdown.ext = ".Rmarkdown",
-  blogdown.subdir = "post"
+  blogdown.subdir = "posts"
 )
