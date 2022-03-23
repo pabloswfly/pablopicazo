@@ -22,9 +22,12 @@ languages:
         - identifier: cv
           name: /cv
           url: /cv
-        - identifier: posts
-          name: /posts
-          url: /posts
+        - identifier: research
+          name: /research
+          url: /research
+        - identifier: thoughts
+          name: /thoughts
+          url: /thoughts
         - identifier: music
           name: /music
           url: /music

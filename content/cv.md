@@ -76,42 +76,48 @@ Research project {
   at: Cellular Systems Genomics lab, Josep Carreras Institute;
   where: Barcelona, Spain;
   when: Ongoing;
-  title: ’DeepScore, a multi-platform and multi-omics deep learning model for user-friendly single-cell annotation and label transfer’;
+  title: ’DeepScore, a multi-platform and multi-omics deep learning model for
+  user-friendly single-cell annotation and label transfer’;
 }
 
 Research project {
   at: Cellular Systems Genomics lab, Josep Carreras Institute;
   where: Barcelona, Spain;
   when: Ongoing;
-  title: ’Generation of a single-cell ATAC-seq atlas of chromatin accessibility of human pancreas, part of Human Cell Atlas, ESPACE consortium’;
+  title: ’Generation of a single-cell ATAC-seq atlas of chromatin accessibility
+  of human pancreas, part of Human Cell Atlas, ESPACE consortium’;
 }
 
 Research project {
   at: Cellular Systems Genomics lab, Josep Carreras Institute;
   where: Barcelona, Spain;
   when: Ongoing;
-  title: ’Single-cell multi-omics data integration and characterization in the human kidney, part of Human Cell Atlas project’;
+  title: ’Single-cell multi-omics data integration and characterization in the
+  human kidney, part of Human Cell Atlas project’;
 }
 
 Research project {
   at: Cellular Systems Genomics lab, Josep Carreras Institute;
   where: Barcelona, Spain;
   when: Ongoing;
-  title: ’Single-cell RNA-seq analyses of human mesenchymal cell in Acute Lymphocytic and Myeloid Leukemia in adults and infants’;
+  title: ’Single-cell RNA-seq analyses of human mesenchymal cell in Acute
+  Lymphocytic and Myeloid Leukemia in adults and infants’;
 }
 
 Research project {
   at: Cellular Systems Genomics lab, Josep Carreras Institute;
   where: Barcelona, Spain;
   when: Ongoing;
-  title: ’Single-cell RNA-seq analyses of cell induced senescence in the mammary gland of mice’;
+  title: ’Single-cell RNA-seq analyses of cell induced senescence in the 
+  mammary gland of mice’;
 }
 
 Master thesis {
   at: Racimo lab, University of Copenhagen;
   where: Copenahgen, Denmark;
   when: 1 Feb 2020 - 22 Oct 2020;
-  title: ’Demographic inference using a MCMC-coupled Generative Adversarial Network on genomic data’;
+  title: ’Demographic inference using a MCMC-coupled Generative
+  Adversarial Network on genomic data’;
   grade: 12/12;
 }
 
@@ -119,7 +125,8 @@ Bioinformatics project II {
   at: Racimo lab, University of Copenhagen;
   where: Copenhagen, Denmark;
   when: 1 Oct 2019 - 1 Feb 2020;
-  title: ’Interpreting a Convolutional Neural Network that predicts Archaic Adaptive Introgression’;
+  title: ’Interpreting a Convolutional Neural Network that predicts 
+  Archaic Adaptive Introgression’;
   grade: 12/12;
 }
 
@@ -135,8 +142,8 @@ Bachelor thesis {
   at: Hilario Ramirez lab, Universidad de Granada;
   where: Granada, Spain;
   when: 1 Feb 2017 - 1 July 2017;
-  title: ’Potential application of Virtual Reality technologies to
-Molecular Infography of Proteins and Nucleic Acids’;
+  title: ’Potential application of Virtual Reality technologies to 
+  Molecular Infography of Proteins and Nucleic Acids’;
   grade: 9.9/10;
 }
 ```
@@ -150,7 +157,6 @@ Detecting adaptive introgression in human evolution using convolutional neural n
   journal: eLife;
   year: 2021;
   doi: 10.7554/eLife.64669;
-  when: 1 Feb 2020 - 22 Oct 2020;
   url: https://elifesciences.org/articles/64669;
 }
 
@@ -170,7 +176,16 @@ Population genomic inference using a MCMC-coupled generative adversarial network
   at: Cold Spring Harbor Laboratory;
   format: poster;
   where: New York, United States (online);
-  when: April 14 - April 16;
+  when: April 14 - 16, 2021;
+}
+
+DeepSCore, a multi-language multi-omics framework for single-cell 
+automatic label transfer {
+  conference: Single Cell Genomics Symposium;
+  at: Parc de Recerca Biomèdica de Barcelona;
+  format: poster;
+  where: Barcelona, Spain;
+  when: March 24 - 25, 2022;
 }
 ```
 
@@ -189,7 +204,7 @@ Barista and bartender {
 ```css
 Languages {
   human: spanish, english, italian, polish, french;
-  programming: Python, R, Bash, C++, C#, Matlab, Pascal; 
+  programming: python, R, bash, C++, C#, matlab, pascal; 
 }
 
 Computational skills {
@@ -204,6 +219,10 @@ Computational skills {
 ```css
 Member of ESPACE, the Human Cell Atlas Pancreas consortium {
   url: www.espace-h2020.eu/#
+}
+
+Member of CZI, the Chan Zuckerberg Initiative kidney consortium {
+  url: www.chanzuckerberg.com/science/programs-resources/single-cell-biology/seednetworks/a-comprehensive-single-cell-atlas-of-the-human-kidney/
 }
 
 Cambridge C1 Advanced {
