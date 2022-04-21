@@ -189,6 +189,19 @@ automatic label transfer {
 }
 ```
 
+ `INVITED TALKS`
+
+```css
+Demographic inference using a Markov Chain Monte Carlo coupled GAN {
+  organisation: Bioinfo GRX;
+  format: talk;
+  where: online;
+  when: April 19, 2022;
+  url: bioinformaticsgrx.es/bioinfo-club-abril-2022-demographic-inference-using-a-mcmc-coupled-generative-adversarial-network
+  youtube: youtube.com/watch?v=dko-bEcEb20&t=691s
+}
+```
+
  `VOLUNTEER EXPERIENCE`
 
 ```css
