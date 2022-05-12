@@ -49,7 +49,7 @@ Scientific Entertainer {
 ```css
 MSc in Bioinformatics {
   at: University of Copenhagen;
-  where: Denmark, Spain;
+  where: Copenhagen, Denmark;
   when: 1 Sep 2018 - 22 Oct 2020;
   subjects: machine-learning, data-science, linux-python-programming;
 }
@@ -58,7 +58,7 @@ Exchange Student {
   at: Università Politechnica delle Marche;
   where: Ancona, Italy;
   when: 1 Sep 2015 - 1 July 2016;
-  with: Erasmus+ mobility fellowship;
+  with: Erasmus+ mobility scholarship;
 }
 
 BSc in Biochemistry {
@@ -66,6 +66,28 @@ BSc in Biochemistry {
   where: Granada, Spain;
   when: 1 Sep 2013 - 1 July 2017;
   subjects: systems-biology, protein-engineering, statistics;
+}
+```
+
+ `AWARDS`
+
+```css
+Pre-selected candidate for La Caixa INPhINIT Incoming Fellowship {
+  from: Fundacion La Caixa;
+  where: Spain;
+  when: Apr 2022;
+}
+
+Beca de Colaboración Young Researcher Fellowship {
+  from: Ministerio de Educación y Formación Profesional;
+  where: Granada, Spain;
+  when: 1 Nov 2016 - 1 July 2017;
+}
+
+Erasmus+ Scholarship {
+  from: European Union;
+  where: Ancona, Italy;
+  when: 1 Sep 2015 - 1 July 2016;
 }
 ```
 
@@ -168,15 +190,13 @@ Deep Learning Applications in Single-Cell Omics Data Analysis {
 }
 ```
 
- `CONFERENCES`
+ `CONFERENCES AND MEETINGS`
 
 ```css
-Population genomic inference using a MCMC-coupled generative adversarial network {
-  conference: Probabilistic Modeling in Genomics;
-  at: Cold Spring Harbor Laboratory;
-  format: poster;
-  where: New York, United States (online);
-  when: April 14 - 16, 2021;
+Human Cell Atlas ESPACE final meeting {
+  at: Charité Campus Virchow;
+  where: Berlin, Germany;
+  when: June 1 - 2, 2022;
 }
 
 DeepSCore, a multi-language multi-omics framework for single-cell 
@@ -186,6 +206,14 @@ automatic label transfer {
   format: poster;
   where: Barcelona, Spain;
   when: March 24 - 25, 2022;
+}
+
+Population genomic inference using a MCMC-coupled generative adversarial network {
+  conference: Probabilistic Modeling in Genomics;
+  at: Cold Spring Harbor Laboratory;
+  format: poster;
+  where: New York, United States (online);
+  when: April 14 - 16, 2021;
 }
 ```
 

@@ -9,3 +9,5 @@ Thumbs.db
 /resources/
 .Rdata
 .httr-oauth
+commands.R
+
