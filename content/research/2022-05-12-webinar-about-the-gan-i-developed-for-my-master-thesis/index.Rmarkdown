@@ -32,8 +32,7 @@ BioinformaticsGRX is an association of young bioinformaticians promoting and dis
 And their headquarters is in Granada, my hometown!
 
 You can find the recorded video of the webinar below: 
-(warning: it can get tech-geeky!)
 
- <center><iframe width="600" height="400"
-src="https://www.youtube.com/watch?v=dko-bEcEb20&t">
-</iframe></center>
+https://www.youtube.com/watch?v=dko-bEcEb20&t
+
+(warning: it gets tech-geeky!)
