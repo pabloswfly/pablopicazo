@@ -193,23 +193,23 @@ Detecting adaptive introgression in human evolution using convolutional neural n
   journal: eLife;
   year: 2021;
   doi: 10.7554/eLife.64669;
-  url: https://elifesciences.org/articles/64669;
+  url: elifesciences.org/articles/64669;
 }
 
 Deep Learning Applications in Single-Cell Omics Data Analysis {
   authors: Nafiseh Erfanian, A. Ali Heydari, Pablo Iañez, Afshin Derakhshani, Mohammad Ghasemigol, Mohsen Farahpour, Saeed Nasseri, Hossein Safarpour, Amirhossein Sahebkar;
   journal: bioRxiv;
   year: 2021;
-  doi: doi: https://doi.org/10.1101/2021.11.26.470166;
-  url: https://www.biorxiv.org/content/10.1101/2021.11.26.470166v2.full;
+  doi: doi.org/10.1101/2021.11.26.470166;
+  url: www.biorxiv.org/content/10.1101/2021.11.26.470166v2.full;
 }
 
 Inference of population genetics parameters using discriminator neural networks: an adversarial Monte Carlo approach {
   authors: Graham Gower, Pablo Iáñez Picazo, Finn Lindgren, Fernando Racimo;
   journal: bioRxiv;
   year: 2023;
-  doi: https://doi.org/10.1101/2023.04.27.538386;
-  url: https://www.biorxiv.org/content/10.1101/2023.04.27.538386v1;
+  doi: doi.org/10.1101/2023.04.27.538386;
+  url: www.biorxiv.org/content/10.1101/2023.04.27.538386v1;
 }
 ```
 
