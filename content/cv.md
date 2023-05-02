@@ -8,10 +8,17 @@ output: html_document
  `WORK EXPERIENCE`
 
 ```css
+PhD Student {
+  at: Barcelona Institute for Global Health (ISGlobal);
+  where: Barcelona, Spain;
+  when: 1 Oct 2022 - now;
+  activities: machine-learning, deep-learning, computer vision, microscopy imaging, ATACseq, data-integration;
+}
+
 Research Assistant {
   at: Josep Carreras Leukaemia Research Institute;
   where: Barcelona, Spain;
-  when: 15 Feb 2021 - now;
+  when: 15 Feb 2021 - 31 Aug 2022;
   activities: single-cell, multi-omics, scRNAseq, scATACseq, data-integration, machine-learning, deep-learning;
 }
 
@@ -36,7 +43,7 @@ Undergraduate Student Researcher {
   activities: western-blot, spectrophotometric-assays, respiration-analysis, zebrafish-management;
 }
 
-Scientific Entertainer {
+Student Scientific Entertainer {
   at: Parque de las Ciencias;
   where: Granada, Spain;
   when: 1 Oct 2016 - 1 Feb 2017;
@@ -47,6 +54,13 @@ Scientific Entertainer {
  `EDUCATION`
 
 ```css
+PhD Student in Biomedical Data Science {
+  at: Universitat Pompeu Fabra;
+  where: Barcelona, Spain;
+  when: 1 Oct 2022 - now;
+  activities: machine-learning, deep-learning, computer vision, microscopy imaging, ATACseq, data-integration;
+}
+
 MSc in Bioinformatics {
   at: University of Copenhagen;
   where: Copenhagen, Denmark;
@@ -72,7 +86,7 @@ BSc in Biochemistry {
  `AWARDS`
 
 ```css
-Pre-selected candidate for La Caixa INPhINIT Incoming Fellowship {
+La Caixa Foundation INPhINIT Incoming Fellowship {
   from: Fundacion La Caixa;
   where: Spain;
   when: Apr 2022;
@@ -190,7 +204,7 @@ Deep Learning Applications in Single-Cell Omics Data Analysis {
 }
 ```
 
- `CONFERENCES AND MEETINGS`
+ `CONFERENCE POSTERS AND PRESENTATIONS`
 
 ```css
 Human Cell Atlas ESPACE final meeting {
